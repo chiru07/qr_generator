@@ -11,8 +11,8 @@ This project generates QR codes using Python. It allows you to embed URLs or any
 ## Installation
 Make sure you have Python installed. Then, install the required dependency:
 
-sh
-pip install qrcode[pil]
+
+pip install qrcode
 
 
 ## Usage
